@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighestRankNumber", "HighestRankNumber\HighestRankNumber.csproj", "{45CAA2B5-FDB2-4CC4-8914-025B9890A685}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighestRankNumberTests", "HighestRankNumberTests\HighestRankNumberTests.csproj", "{8372CB3A-39F6-4C07-B8D5-7BB94A087331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45CAA2B5-FDB2-4CC4-8914-025B9890A685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45CAA2B5-FDB2-4CC4-8914-025B9890A685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45CAA2B5-FDB2-4CC4-8914-025B9890A685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45CAA2B5-FDB2-4CC4-8914-025B9890A685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8372CB3A-39F6-4C07-B8D5-7BB94A087331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8372CB3A-39F6-4C07-B8D5-7BB94A087331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8372CB3A-39F6-4C07-B8D5-7BB94A087331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8372CB3A-39F6-4C07-B8D5-7BB94A087331}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD3B5E45-94C7-4DA1-ADE4-AE7B872941B8}
+	EndGlobalSection
+EndGlobal
