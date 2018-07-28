@@ -1,4 +1,4 @@
-﻿namespace GetMiddleCharacter
+﻿namespace MiddleCharacter
 {
     public class Kata
     {
