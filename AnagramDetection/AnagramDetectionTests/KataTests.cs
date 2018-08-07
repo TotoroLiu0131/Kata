@@ -17,6 +17,8 @@ namespace AnagramDetectionTests
         public void IsAnagramTest(string test, string original, bool expect)
         {
             var actual =  Kata.IsAnagram(test, original);
+
+
             Assert.AreEqual(expect,actual);
         }
     }
